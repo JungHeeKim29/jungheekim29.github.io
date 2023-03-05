@@ -1,0 +1,24 @@
+# Publications
+- name: Self-supervised surround-view depth estimation with volumetric feature fusion 
+  authors: <b>Jung-Hee Kim*</b>, Junhwa Hur*, Tien Phuoc Nguyen, Seong-Gyun Jeong
+  conference: Neural Information Processing Systems(<b>NeurIPS</b>), 2022
+  description: <a href="https://openreview.net/forum?id=0PfIQs-ttQQ">paper</a> / <a href="https://github.com/42dot/VFDepth">code</a>
+  image: "images/depth_synthesis.gif"
+
+- name: End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images
+  authors: <b>Jung-Hee Kim*</b>, Siyeong Lee*, Suk-Ju Kang
+  conference: AAAI Conference on Artificial Intelligence(<b>AAAI</b>), 2021
+  description: <a href="https://arxiv.org/abs/2006.15833">paper</a> / <a href="https://github.com/JungHeeKim29/DiffHDRsyn">code</a>
+  image: "images/hdrsyn.png"
+
+- name: Structured Camera Pose Estimation for Mosaic-based Omnidirectional Imaging
+  authors: Woojune Park*, <b>Jung-Hee Kim*</b>, Suk-Ju Kang, Joonsoo Kim, Kugjin Yun, Won-Sik Cheong
+  conference: IEEE International Symposium on Circuits and Systems(<b>ISCAS</b>), 2021
+  description: <a href="https://ieeexplore.ieee.org/document/9401585">paper</a>
+  image: "images/structure_campose.png"
+
+- name: Differentiable HDR Image Synthesis using Multi-exposure Images
+  authors: <b>Jung-Hee Kim*</b>, Siyeong Lee*, Suk-Ju Kang
+  conference: Neural Information Processing Systems Workshop(<b>NeurIPSW</b>), 2020
+  description: <a href="https://montrealrobotics.ca/diffcvgp/assets/papers/4.pdf">paper</a>
+  image: "images/diffhdr.png"
