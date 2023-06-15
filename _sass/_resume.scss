@@ -69,6 +69,7 @@
   }
 
   .executive-summary {
+    @include sans;
     @include media_larger_than_mobile { font-size: 1.125rem;}
     text-align: center;
   }
@@ -146,17 +147,20 @@
   }
 
   .resume-item-details {
+    @include sans_bold;
     font-size: 1.125rem;
     margin: 0 0 .5rem;
     line-height: 1;
   }
 
   .resume-item-paper {
+    @include sans;
     font-size: .75rem;
     line-height: 1;
   }
 
   .resume-item-copy{
+    @include sans_light;
     line-height: 1;
   }
   

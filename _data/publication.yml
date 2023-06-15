@@ -1,4 +1,11 @@
 # Publications
+- name: "MiLO: Multi-task Learning with Localization Ambiguity Suppression for Occupancy Prediction"
+  authors: Thang Vu, <b>Jung-Hee Kim</b>, Myeongjin Kim, Sukwoo Jung, Seong-Gyun Jeong
+  conference: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
+  description: <b> Ranked 2nd place on CVPR 2023 3D Occupancy Prediction Challenge</b> 
+    <a href="https://opendrivelab.com/e2ead/AD23Challenge/Track_3_42dot.pdf">paper</a>
+  image: "images/occ_demo.gif"
+
 - name: Self-supervised surround-view depth estimation with volumetric feature fusion 
   authors: <b>Jung-Hee Kim*</b>, Junhwa Hur*, Tien Phuoc Nguyen, Seong-Gyun Jeong
   conference: Neural Information Processing Systems(<b>NeurIPS</b>), 2022

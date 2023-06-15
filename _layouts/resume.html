@@ -106,6 +106,17 @@
       <!-- end Publications -->
       {% endif %}
 
+      <section class="content-section">      
+        <header class="section-header">
+          <h2>Award</h2>
+        </header>
+            {% for award in site.data.awards %}
+            <div class="resume-item" >
+              <h3 class="resume-item-details" itemprop="description"> {{award.name }}</h3>
+              <p class="resume-item-copy" itemprop="description"> {{award.description }}</p>
+            </div>      
+            {% endfor %}
+
       {% if site.resume_section_others %}
       <!-- begin others -->
       <section class="content-section">      
