@@ -3,7 +3,7 @@
   authors: Jongsung Lee*, Gyeongsu Cho*, Jeongin Park*, Seongoh Lee*, Kyongjun Kim, <b>Jung-Hee Kim</b>, Seong-Gyun Jeong, Kyungdon Joo
   conference: International Conference on Computer Vision (<b>ICCV</b>), 2023
   description: #<a href="https://opendrivelab.com/e2ead/AD23Challenge/Track_3_42dot.pdf">paper</a>
-  image: "images/Slabins.webp"
+  image: "images/slabins.webp"
   
 - name: "MiLO: Multi-task Learning with Localization Ambiguity Suppression for Occupancy Prediction"
   authors: Thang Vu, <b>Jung-Hee Kim</b>, Myeongjin Kim, Sukwoo Jung, Seong-Gyun Jeong
