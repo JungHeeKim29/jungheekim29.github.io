@@ -16,8 +16,9 @@ resume_title:                   ""
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kjhe29@gmail.com"
 
-resume_header_intro: "<p>Hi, I'm Jung-Hee Kim, I'm a computer vision research engineer at 42dot Inc., Hyundai motors global software center. I received my M.Sc. and B.Sc. at Sogang University. 
-<br>I'm interested in computer vision, machine learning, and 3D scene understanding.</p>"
+resume_header_intro: "<p>Hi, I'm a Ph.D. student at Michigan State University's <a href='https://cvlab.cse.msu.edu' target='_blank'>Computer Vision Lab.</a>,
+  <br> under the supervision of <a href='https://www.cse.msu.edu/~liuxm/' target='_blank'>Prof. Xiaoming Liu</a>"
+# <br>I'm interested in computer vision, machine learning, and 3D scene understanding.</p>"
 
 #<br>My research interests are <li>Multi-view Geometry</li><li>Computer vision</li><li>Low-level vision</li>
 # use "yes" to display the email contact button,

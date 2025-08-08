@@ -1,10 +1,16 @@
 # Publications
+- name: "Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens"
+  authors: Suchisrit Gangopadhyay*, <b>Jung-Hee Kim*</b>, Xien Chen*, Patrick Rim, Hyoungseob Park, Alex Wong
+  conference: International Conference on Computer Vision (<b>ICCV</b>), 2025
+  description: <a href="https://opendrivelab.com/e2ead/AD23Challenge/Track_3_42dot.pdf">paper</a>
+  image: "images/calibtoken.png"
+
 - name: "SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments"
   authors: Jongsung Lee*, Gyeongsu Cho*, Jeongin Park*, Seongoh Lee*, Kyongjun Kim, <b>Jung-Hee Kim</b>, Seong-Gyun Jeong, Kyungdon Joo
   conference: International Conference on Computer Vision (<b>ICCV</b>), 2023
-  description: #<a href="https://opendrivelab.com/e2ead/AD23Challenge/Track_3_42dot.pdf">paper</a>
+  description: <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.pdf">paper</a>
   image: "images/slabins_fig.webp"
-  
+
 - name: "MiLO: Multi-task Learning with Localization Ambiguity Suppression for Occupancy Prediction"
   authors: Thang Vu, <b>Jung-Hee Kim</b>, Myeongjin Kim, Sukwoo Jung, Seong-Gyun Jeong
   conference: IEEE Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW</b>), 2023
