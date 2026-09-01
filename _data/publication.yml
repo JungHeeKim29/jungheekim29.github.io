@@ -1,4 +1,10 @@
 # Publications
+- name: "Geometric Distillation from Rectified Stereo: Leveraging Epipolar Cues for Monocular Depth (EpiDistill)"
+  authors: <b>Jung-Hee Kim</b>, Xiaoming Liu
+  conference: European Conference on Computer Vision (<b>ECCV</b>), 2026
+  description: <a href="https://arxiv.org/pdf/2607.15600">paper</a> / <a href="https://jungheekim29.github.io/EpiDistill/">project page</a> / <a href="https://github.com/JungHeeKim29/EpiDistill">code</a>
+  image: "images/epidistill.gif"
+
 - name: "Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens"
   authors: Suchisrit Gangopadhyay*, <b>Jung-Hee Kim*</b>, Xien Chen*, Patrick Rim, Hyoungseob Park, Alex Wong
   conference: International Conference on Computer Vision (<b>ICCV</b>), 2025
