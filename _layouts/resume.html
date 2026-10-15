@@ -115,21 +115,23 @@
               <p class="resume-item-copy" itemprop="description"> {{award.description }}</p>
             </div>      
             {% endfor %}
+      </section>
 
-      {% if site.resume_section_others %}
-      <!-- begin others -->
+      {% if site.resume_section_service or site.resume_section_others %}
+      <!-- begin service -->
       <section class="content-section">      
         <header class="section-header">
-          <h2>Others</h2>
+          <h2>Service</h2>
         </header>
 
-          {% for other in site.data.others %}
+          {% assign service_data = site.data.service | default: site.data.others %}
+          {% for item in service_data %}
             <div class="resume-item" >
-              <h3 class="resume-item-details" itemprop="description"> {{other.name }}</h3>
-              <p class="resume-item-copy" itemprop="description"> {{other.description }}</p>
+              <h3 class="resume-item-details" itemprop="description"> {{item.name }}</h3>
+              <p class="resume-item-copy" itemprop="description"> {{item.description }}</p>
             </div>                
           {% endfor %}
-
+      </section>
       {% endif %}
     </div>
 

@@ -33,7 +33,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_publication:     true
 resume_section_interests:       true
-resume_section_others:          true
+resume_section_service:         true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
